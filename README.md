@@ -1,11 +1,6 @@
 ### Hey! I am Shikha 👋
 ### Glad to see you here! 🤩
 
-<!--
-**ishikharai/ishikharai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-      
-Here are some ideas to get you started:
-
 
 - 🔭 I’m currently working on Web Designs Projects
 - 🌱 I’m currently learning Data Structures and Algorithms
@@ -13,7 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Competitive Programming
 - 💬 Ask me about Anything 🤓
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://www.linkedin.com/in/shikha-rai-60101a1b3/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
