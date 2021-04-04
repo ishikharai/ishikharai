@@ -7,6 +7,6 @@ Glad to see you here! 🤩
 - 👯 I’m looking to collaborate on Interesting Web Projects
 - 🤔 I’m looking for help with Competitive Programming
 - 💬 Ask me about Anything,Anytime🤓
-- - 🥅 2021 Goals: Contribute more to Open Source projects
+-  🥅 2021 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
