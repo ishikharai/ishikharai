@@ -3,7 +3,7 @@ Glad to see you here! 🤩
 
 
 - 🔭 I’m a Font-end Enthusiast. 
-- 🌱 I’m currently learning Data Structures and Algorithms,JS
+- 🌱 I’m currently learning Javascript,Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Interesting Web Projects
 - 🤔 I’m looking for help with Competitive Programming
 - 💬 Ask me about Anything,Anytime🤓
