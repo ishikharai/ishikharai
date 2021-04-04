@@ -1,9 +1,6 @@
 ### Hey! I am Shikha 👋
 Glad to see you here! 🤩
 
-![Shikha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishikharai&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishikharai&langs_count=8&show_icons=true&theme=radical)](https://github.com/ishikharai/github-readme-stats)
-
-
 
 
 - 🔭 I’m a Font-end Enthusiast. 
@@ -14,3 +11,7 @@ Glad to see you here! 🤩
 -  🥅 2021 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
+
+### Github Stats
+
+![Shikha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishikharai&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishikharai&langs_count=8&show_icons=true&theme=radical)](https://github.com/ishikharai/github-readme-stats)
