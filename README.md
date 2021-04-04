@@ -2,7 +2,7 @@
 Glad to see you here! 🤩
 
 
-- 🔭 I’m currently working on Web Designs Projects
+- 🔭 I’m currently working on ### Web Design Projects
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Interesting Web Projects
 - 🤔 I’m looking for help with Competitive Programming
