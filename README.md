@@ -2,11 +2,11 @@
 Glad to see you here! 🤩
 
 
-- 🔭 I’m currently working on Web Design Projects
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🔭 I’m a Font-end Enthusiast. 
+- 🌱 I’m currently learning Data Structures and Algorithms,JS
 - 👯 I’m looking to collaborate on Interesting Web Projects
 - 🤔 I’m looking for help with Competitive Programming
-- 💬 Ask me about Anything 🤓
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: https://www.linkedin.com/in/shikha-rai-60101a1b3/
+- 💬 Ask me about Anything,Anytime🤓
+- - 🥅 2021 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: She/Her
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript.
