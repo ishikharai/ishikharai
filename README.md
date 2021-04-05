@@ -10,5 +10,5 @@ Glad to see you here! 🤩
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: She/Her
 - 🤝🏻 I love connecting with new people and work with them :) 
-- - ⚡ Fun fact: Equal is Not Always Equal in JS. 
+- ⚡ Fun fact: Equal is Not Always Equal in JS. 
 
